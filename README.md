@@ -1,4 +1,4 @@
-# Install-Vps for web app penetration testing
+# Install tools for a VPS
 
 
 Script to automate the download and installation of the main tools used for web app penetration testing.
