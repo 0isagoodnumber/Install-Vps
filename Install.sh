@@ -147,8 +147,8 @@ cd tools
                 sudo pip install -r requirements.txt
         cd ..
 
-    git clone https://github.com/edoardottt/cariddi.git; cd cariddi; go get; make linux
-    cd ..
+        git clone https://github.com/edoardottt/cariddi.git; cd cariddi; go get; make linux
+        cd ..
 
         GO111MODULE=on go get -v github.com/projectdiscovery/shuffledns/cmd/shuffledns
         git clone https://github.com/blechschmidt/massdns.git
@@ -268,7 +268,7 @@ cd tools
 
         ##################
         #Dorks
-    ##################
+        ##################
         git clone https://github.com/opsdisk/pagodo.git
         cd pagodo
                 pip3 install -r requirements.txt
